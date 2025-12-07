@@ -1,14 +1,11 @@
 tni-assets/
 └── images/
     ├── ![apricot blossom in ladakh](https://github.com/user-attachments/assets/d645a594-95a6-474e-a955-28be391e8ba9)
+![july](https://github.com/user-attachments/assets/f5ad7f1d-9990-49e2-9335-d7954d59e172)
+![thiksey](https://github.com/user-attachments/assets/4ae3ed40-37a2-4a11-aa72-c9e21cc5d91e)
+![lamayuru](https://github.com/user-attachments/assets/f46a0ce9-9240-447a-8440-6f0f2b8c3f05)
+![aug](https://github.com/user-attachments/assets/464ba917-bc3e-40c6-a844-bc84a9842ec8)
 
-    ├──![IMG_6291](https://github.com/user-attachments/assets/64d7be6c-de8e-44d8-8d16-7c0cea5a02ea)
 
-    ├── ![lamayuru](https://github.com/user-attachments/assets/667806cb-6f7e-4f5b-ac53-76b81f76234d)
 
-    ├── ![july](https://github.com/user-attachments/assets/766752e0-004f-4656-85e9-35fc6f426cae)
-
-    ├── ![Uploading ladakh.jpg…]()
-
-    └── ![july](https://github.com/user-attachments/assets/cd6edf05-c87c-4a84-b421-e0fce3f05256)
 
